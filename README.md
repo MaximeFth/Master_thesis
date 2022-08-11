@@ -1,4 +1,4 @@
-# Master_thesis - A Study of the Current Cyber Threat Landscape. 
+# Master Thesis - A Study of the Current Cyber Threat Landscape. 
 This master thesis is the result of a collaboration between the Ecole Polytechnique Fédérale de Lausanne (EPFL) and the European Organization for Nuclear Research (CERN).
 
 ## Abstract
