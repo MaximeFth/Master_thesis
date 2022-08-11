@@ -1,5 +1,5 @@
-# Master_thesis
-A Study of the Current Cyber Threat Landscape.
+# Master_thesis - A Study of the Current Cyber Threat Landscape. 
+This master thesis is the result of a collaboration between the Ecole Polytechnique Fédérale de Lausanne (EPFL) and the European Organization for Nuclear Research (CERN).
 
 ## Abstract
 The constant growth of cyber attacks impacts all sectors of our modern interconnected society. From the moment a device gets connected to the Internet, it faces an abundance of threats, and if not well secured it will be exploited in a matter of minutes. Of course, CERN's computing services are no exception to those threats. The aim of this project is to study and compare the data obtained by three SSH\&Telnet honeypots; One on CERN's internal Global Purpose Network, the second on CERN's external network, and the last one on another non-CERN-related server. We aim this way to obtain a glimpse of the current threat landscape that faces every Internet-connected object. The data collected by these honeypots will also help to identify the main objectives of the different malicious actors' intrusions, and how they proceed to corrupt vulnerable devices. In a couple of case studies, we will focus on different remarkably active and malicious botnets observed on the honeypots, such as the well-known "Mirai" botnet. This master thesis is the result of a collaboration between the Ecole Polytechnique Fédérale de Lausanne (EPFL) and the European Organization for Nuclear Research (CERN).
